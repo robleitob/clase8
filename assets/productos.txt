@@ -1,0 +1,14 @@
+[
+	{
+		"title": "Generico1",
+		"price": 22216.32,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/generico1.png",
+		"id": 1
+	},
+	{
+		"title": "Generico2",
+		"price": 155.32,
+		"thumbnail": "https://cdn3.iconfinder.com/data/icons/generico2.png",
+		"id": 2
+	}
+]
